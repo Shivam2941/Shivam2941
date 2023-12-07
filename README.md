@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
+<h1 align="center">Hi 👋, I'm Shivam Sharma , a passionate coder and problem solver with a keen interest in competitive programming. I believe in the power of algorithms and data structures to craft elegant solutions to complex problems. My journey in the world of coding began with a fascination for logical puzzles, and it has evolved into a deep love for competitive programming.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shivam2941&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam2941" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivam2941&theme=" alt="Shivam2941" /></a> </p>
